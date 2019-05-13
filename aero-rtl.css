@@ -47,8 +47,8 @@ a:hover {
 
 @font-face {
     font-family: yekan;
-    src: url(../assets/fonts/yekan.eot);
-    src: url(../assets/fonts/yekan.eot?#iefix) format("embedded-opentype"), url(../assets/fonts/yekan.woff) format("woff"), url(../assets/fonts/yekan.ttf) format("truetype"), url(../assets/fonts/yekan.svg#BYekan) format("svg");
+    src: url(https://prozin.com/themes/aero/assets/fonts/yekan.eot);
+    src: url(https://prozin.com/themes/aero/assets/fonts/yekan.eot?#iefix) format("embedded-opentype"), url(https://prozin.com/themes/aero/assets/fonts/yekan.woff) format("woff"), url(https://prozin.com/themes/aero/assets/fonts/yekan.ttf) format("truetype"), url(https://prozin.com/themes/aero/assets/fonts/yekan.svg#BYekan) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -57,32 +57,32 @@ a:hover {
     font-family: IRANSans;
     font-style: normal;
     font-weight: 700;
-    src: url(../assets/fonts/iransans/IRANSansWeb_Bold.eot);
-    src: url(../assets/fonts/iransans/IRANSansWeb_Bold.eot?#iefix) format("embedded-opentype"), url(../assets/fonts/iransans/IRANSansWeb_Bold.woff2) format("woff2"), url(../assets/fonts/iransans/IRANSansWeb_Bold.woff) format("woff"), url(../assets/fonts/iransans/IRANSansWeb_Bold.ttf) format("truetype")
+    src: url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Bold.eot);
+    src: url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Bold.eot?#iefix) format("embedded-opentype"), url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Bold.woff2) format("woff2"), url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Bold.woff) format("woff"), url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Bold.ttf) format("truetype")
 }
 
 @font-face {
     font-family: IRANSans1;
     font-style: normal;
     font-weight: 700;
-    src: url(../assets/fonts/iransans/IRANSansWeb_Bold.eot);
-    src: url(../assets/fonts/iransans/IRANSansWeb_Bold.eot?#iefix) format("embedded-opentype"), url(../assets/fonts/iransans/IRANSansWeb_Bold.woff2) format("woff2"), url(../assets/fonts/iransans/IRANSansWeb_Bold.woff) format("woff"), url(../assets/fonts/iransans/IRANSansWeb_Bold.ttf) format("truetype")
+    src: url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Bold.eot);
+    src: url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Bold.eot?#iefix) format("embedded-opentype"), url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Bold.woff2) format("woff2"), url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Bold.woff) format("woff"), url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Bold.ttf) format("truetype")
 }
 
 @font-face {
     font-family: IRANSans;
     font-style: normal;
     font-weight: 400;
-    src: url(../assets/fonts/iransans/IRANSansWeb.eot);
-    src: url(../assets/fonts/iransans/IRANSansWeb.eot?#iefix) format("embedded-opentype"), url(../assets/fonts/iransans/IRANSansWeb.woff2) format("woff2"), url(../assets/fonts/iransans/IRANSansWeb.woff) format("woff"), url(../assets/fonts/iransans/IRANSansWeb.ttf) format("truetype")
+    src: url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb.eot);
+    src: url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb.eot?#iefix) format("embedded-opentype"), url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb.woff2) format("woff2"), url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb.woff) format("woff"), url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb.ttf) format("truetype")
 }
 
 @font-face {
     font-family: IRANSans;
     font-style: normal;
     font-weight: 900;
-    src: url(../assets/fonts/iransans/IRANSansWeb_Light.eot);
-    src: url(../assets/fonts/iransans/IRANSansWeb_Light.eot?#iefix) format("embedded-opentype"), url(../assets/fonts/iransans/IRANSansWeb_Light.woff2) format("woff2"), url(../assets/fonts/iransans/IRANSansWeb_Light.woff) format("woff"), url(../assets/fonts/iransans/IRANSansWeb_Light.ttf) format("truetype")
+    src: url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Light.eot);
+    src: url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Light.eot?#iefix) format("embedded-opentype"), url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Light.woff2) format("woff2"), url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Light.woff) format("woff"), url(https://prozin.com/themes/aero/assets/fonts/iransans/IRANSansWeb_Light.ttf) format("truetype")
 }
 
 .cover,
@@ -1349,7 +1349,7 @@ footer.site-footer .site-container .social-media .fa-instagram:hover {
     background: rgba(0, 0, 0, .5);
     padding: 50px 0 100px;
     direction: rtl;
-    background: url(../images/runna2-min.png) right bottom/30% no-repeat rgba(0, 0, 0, .5)
+    background: url(https://prozin.com/themes/aero/images/runna2-min.png) right bottom/30% no-repeat rgba(0, 0, 0, .5)
 }
 
 .our-partners .row {
